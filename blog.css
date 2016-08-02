@@ -107,6 +107,7 @@ nav li{
 #logo{
 	color: white;
 	margin: 19px;
+	font-family: verdana;
 }
 
 #logo:hover{
@@ -560,6 +561,7 @@ nav li{
 .heading-wrapper .sub-heading,
 .card-text{
 	font-size: 12px;
+	font-family: verdana;
 }
 
 .underLine{
@@ -587,7 +589,7 @@ nav li{
 
 .card .card-text{
 	width: 90%;
-	font-family: 'Raleway', sans-serif;
+	/*font-family: 'Raleway', sans-serif;*/
 }
 
 .card:first-child{
@@ -725,7 +727,7 @@ figure figcaption p, h2, span, div {
 	-moz-transition: all 0.3s;
 	-o-transition: all 0.3s;
 	-ms-transition: all 0.3s;
-	font-family: 'Raleway', sans-serif;
+	/*font-family: 'Raleway', sans-serif;*/
 }
 
 figcaption {
